@@ -10,6 +10,7 @@ Project loads available ingredients for Your burger from Firebase, allows user t
 * Lazy load components
 * Load indicator
 * Error pop-up
+* Prop Types
 * Redirect
 * Authentication check with middlware
 * Redux, Redux Thunk
