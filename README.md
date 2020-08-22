@@ -13,6 +13,7 @@ Project loads available ingredients for Your burger from Firebase, allows user t
 * Prop Types
 * Redirect
 * Authentication check with middlware
+* Check orders by current user
 * Redux, Redux Thunk
 
 ## Installation
