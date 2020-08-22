@@ -1,10 +1,5 @@
-<h2 align="center">:sandwich:</h2>
-<h3 align="center"><a href="https://react-my-burger-d86a3.firebaseapp.com/">DEMO</a>
+<h3 align="center">:sandwich:<a href="https://react-my-burger-d86a3.firebaseapp.com/">DEMO</a>
   </h3>
-
-## :sandwich:	DEMO
-
-DEMO: https://react-my-burger-d86a3.firebaseapp.com/
 
 ## About the project
 
