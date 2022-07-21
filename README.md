@@ -51,9 +51,11 @@ Project loads available ingredients for Your burger from Firebase, allows user t
 ```
 {
 ingredients:
+  {
     bacon: 0,
     cheese: 0,
     meat: 0,
     salad: 0
+  }
 }
 ```
