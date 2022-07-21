@@ -29,3 +29,31 @@ Project loads available ingredients for Your burger from Firebase, allows user t
 3. Start
 
 ` npm start `
+
+## Firebase settings
+### Realtime database rules:
+```
+{
+  "rules": {
+    "ingredients": {
+      ".read": "true",
+      ".write": "true",
+    },
+    "orders": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+        ".indexOn": ["userId"]
+    }
+  }
+}
+```
+### Add object into realtime Firebase:
+```
+{
+ingredients:
+    bacon: 0,
+    cheese: 0,
+    meat: 0,
+    salad: 0
+}
+```
